@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=10sth01.10sth01" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samantha!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9957D&center=true&random=false&width=435&lines=Hello%2C+I'm+Sam!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A 4th year Computer Science student from the PHilippines.</h3>
