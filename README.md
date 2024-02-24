@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a skin disease detection system and a recycling project recommendation system**
  
- 🌱 I’m currently learning **Tablea and Docker**
+ 🌱 I’m currently learning **Tableau and Docker**
 
  </div>
  
