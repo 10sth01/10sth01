@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a skin disease detection system and a recycling project recommendation system**
+ 🔭 I’m currently working on **SkinID and RecycleMate**
  
  🌱 I’m currently learning **Tableau and Docker**
 
