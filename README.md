@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A994D2&center=true&random=false&width=435&lines=Hello%2C+I'm+Sam!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate **Artificial Intelligence** programmer specializing in **Computer Vision** 🖼️.</h3>
+<h3 align="center">A passionate Artificial Intelligence= programmer specializing in Computer Vision 🖼️.</h3>
 
 <br/>
 
@@ -13,6 +13,8 @@
  🔭 Currently working on **SkinID and Tintle**
  
  🌱 Expanding my skills in **Tableau and Docker**
+
+ 🎨 Fun Fact: As a child, I aspired to be a painter, yet my family disapproved. Ironically, this ignited my passion for all things visual, ultimately guiding me to fall in love with programming, particularly computer vision.
 
  </div>
  
