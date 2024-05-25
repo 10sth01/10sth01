@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A994D2&center=true&random=false&width=435&lines=Hello%2C+I'm+Sam!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate Artificial Intelligence= programmer specializing in Computer Vision 🖼️.</h3>
+<h3 align="center">A passionate Artificial Intelligence programmer specializing in Computer Vision 🖼️.</h3>
 
 <br/>
 
