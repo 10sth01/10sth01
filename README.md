@@ -14,8 +14,6 @@
  
  🌱 Expanding my skills in **Tableau and Docker**
 
- 🎨 Fun Fact: As a child, I aspired to be a painter, yet my family disapproved. Ironically, this ignited my passion for all things visual, ultimately guiding me to fall in love with programming, particularly computer vision.
-
  </div>
  
 <div align="center"> 
