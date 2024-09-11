@@ -28,7 +28,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,bootstrap,css,figma,firebase,html,ai,java,js,kotlin" />
-    <img src="https://skillicons.dev/icons?i=matlab,mongodb,ps,py,sklearn,tensorflow,vscode,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=matlab,mongodb,ps,py,sklearn,tensorflow,vscode" /><br>
 </div>
 
 <br/>
